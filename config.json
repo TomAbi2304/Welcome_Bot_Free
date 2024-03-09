@@ -1,0 +1,9 @@
+{
+    "token": "YOUR DISCORD BOT TOKEN",
+    "guild_id": "YOUR DISCORD SERVER ID",
+    "prefix": "PREFIX EINGEBEN (WIRD NICHT BENÖTIGT, TROTZDEM EINGEBEN)",
+
+    "welcome_channel": "YOUR WELCOME CHANNEL ID",
+    "leave_channel": "YOUR LEAVE CHANNEL ID",
+    "role_id": "YOUR ROLE ID TO GIVE ON JOIN"
+}
