@@ -1,5 +1,5 @@
 # Welcome_Bot_Free
-Old Project from me, the code is kinda trash but works somehow
+Old Project from me, the code is kinda trash but works somehow 🤣
 
 # Tipps
 1. Python 3.10 aus dem Micorosft Store herunterladen.
